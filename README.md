@@ -1,0 +1,1 @@
+This project is a simple recipe page that utilizes relative links. While working on it I familiarized myself with ordered and unordered lists, linking and resizing images, and pathing for the links I used.
